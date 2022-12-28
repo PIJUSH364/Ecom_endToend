@@ -1,0 +1,19 @@
+{
+  "name": "end_to_end-amazon-application",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000E\u0000c\u0000o\u0000m\u0000_\u0000e\u0000n\u0000d\u0000T\u0000o\u0000e\u0000n\u0000d\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PIJUSH364/Ecom_endToend.git"
+  },
+  "author": "pijush",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PIJUSH364/Ecom_endToend/issues"
+  },
+  "homepage": "https://github.com/PIJUSH364/Ecom_endToend#readme"
+}
